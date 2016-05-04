@@ -1,2 +1,2 @@
 # autotest
-自动化测试
+selenium 自动化测试框架
